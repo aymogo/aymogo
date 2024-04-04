@@ -1,25 +1,21 @@
 <h1 align="center">Hi 👋, I'm Aymurat Edenbaev in short aymo</h1>
 <h3 align="center">A backend developer from Karakalpakstan in Uzbekistan</h3>
 
-- 🔭 I’m currently working on **E-commerce online store**
-
-- 👯 I’m looking to collaborate on **Mobile apk**
-
-- 🤝 I’m looking for help with **Django, DRF, FastAPI**
+- 🔭 I’m currently working on **Freelance project including reservation and ordering parts**
 
 - 👨‍💻 All of my projects are available at [http://github.com/aymogo](http://github.com/aymogo)
 
 - 📝 I regularly write articles on [https://t.me/aymurat_edenbaev](https://t.me/aymurat_edenbaev)
 
-- 💬 Ask me about **Python, Django, TelegramBotApi**
+- 💬 Ask me about **Python, Django, DRF, FastAPI, TelegramBotApi**
 
 - 📫 How to reach me **aymuratedenbaev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aymurat-edenbaev-731892272/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aymurat-edenbaev-731892272/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aymuratedenbaev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aymurat-edenbaev-731892272/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20241315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20241315" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/aymurat.edenbaev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/aymurat.edenbaev/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/aymurat.edenbaev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/aymurat.edenbaev/" height="30" width="40" /></a>
 <a href="https://instagram.com/aymurat_edenbaev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aymurat_edenbaev" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aymogo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aymogo" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aymogo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aymogo" height="30" width="40" /></a>
