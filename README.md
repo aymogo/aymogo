@@ -36,7 +36,7 @@
 
 <div align="center">
   <div>
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?      username=aymogo&show_icons=true&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=aura" height="180" alt="aymogo" /></p>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aymogo&show_icons=true&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=aura" height="180" alt="aymogo" /></p>
   </div>
   <div>
     <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=aymogo&show_icons=true&locale=en&theme=aura" height="180" alt="aymogo" /></p>
