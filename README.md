@@ -36,21 +36,23 @@
 
 <div align="center">
   <div>
-      <img src="https://leetcard.jacoblin.cool/aymogo?theme=dark&font=Roboto&ext=heatmap" height="250" alt="leetcode stats"  />
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aymogo&show_icons=true&locale=en&layout=compact&theme=dark" alt="aymogo" /></p>
   </div>
   <div>
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aymogo&show_icons=true&locale=en&layout=compact" alt="aymogo" /></p>
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aymogo&show_icons=true&locale=en&theme=dark" alt="aymogo" /></p>
   </div>
   <div>
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aymogo&show_icons=true&locale=en" alt="aymogo" /></p>
+      <img align="left" src="https://leetcard.jacoblin.cool/aymogo?theme=dark&font=Roboto&ext=heatmap" height="250" alt="leetcode stats"  />
   </div>
   <div>
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aymogo&" alt="aymogo" /></p>
   </div>
+  <div>
+    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aymogo" alt="aymogo" /></a> </p>
+  </div>
 </div>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aymogo" alt="aymogo" /></a> </p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aymogo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/aymogo" /></a></p><br><br>
