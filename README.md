@@ -42,7 +42,7 @@
     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aymogo&show_icons=true&locale=en&theme=dark" alt="aymogo" /></p>
   </div>
   <div>
-      <img align="left" src="https://leetcard.jacoblin.cool/aymogo?theme=dark&font=Roboto&ext=heatmap" height="250" alt="leetcode stats"  />
+      <img align="left" src="https://leetcard.jacoblin.cool/aymogo?theme=dark&font=Roboto&ext=heatmap" height="200" alt="leetcode stats"  />
   </div>
   <div>
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aymogo&theme=dark" height="200" alt="aymogo" /></p>
