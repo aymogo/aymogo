@@ -45,10 +45,7 @@
       <img align="left" src="https://leetcard.jacoblin.cool/aymogo?theme=dark&font=Roboto&ext=heatmap" height="250" alt="leetcode stats"  />
   </div>
   <div>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aymogo&" alt="aymogo" /></p>
-  </div>
-  <div>
-    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aymogo" alt="aymogo" /></a> </p>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aymogo&theme=dark" height="200" alt="aymogo" /></p>
   </div>
 </div>
 
