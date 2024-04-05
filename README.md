@@ -36,10 +36,10 @@
 
 <div align="center">
   <div>
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aymogo&show_icons=true&locale=en&layout=compact&theme=dark" alt="aymogo" /></p>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aymogo&show_icons=true&locale=en&layout=compact&theme=dark" height="200" alt="aymogo" /></p>
   </div>
   <div>
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aymogo&show_icons=true&locale=en&theme=dark" alt="aymogo" /></p>
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aymogo&show_icons=true&locale=en&theme=dark" height="200" alt="aymogo" /></p>
   </div>
   <div>
       <img align="left" src="https://leetcard.jacoblin.cool/aymogo?theme=dark&font=Roboto&ext=heatmap" height="200" alt="leetcode stats"  />
